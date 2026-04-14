@@ -252,6 +252,7 @@ ALTER TABLE ONLY public.games
     ADD CONSTRAINT games_winner_id_fkey FOREIGN KEY (winner_id) REFERENCES public.teams(team_id);
 
 
+
 --
 -- PostgreSQL database dump complete
 --
