@@ -1,6 +1,6 @@
 # freeCodeCamp Relational Database Certification
 
-This repository contains my solutions for the [freeCodeCamp Relational Database Certification]([https://www.freecodecamp.org/learn/relational-database/](https://www.freecodecamp.org/learn/relational-databases-v9/)). It showcases my work with PostgreSQL, SQL data modeling, and Bash scripting for database automation.
+This repository contains my solutions for the [freeCodeCamp Relational Database Certification]([https://www.freecodecamp.org/learn/relational-databases-v9/]). It showcases my work with PostgreSQL, SQL data modeling, and Bash scripting for database automation.
 
 ## Project Tasks
 
